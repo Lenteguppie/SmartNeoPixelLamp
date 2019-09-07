@@ -3,6 +3,11 @@
   Student number: 0962873
   Website: https://www.lenteguppie.com
   Required: ESP8266 board version 2.5.0!
+  Hardware:
+    - Wemos D1 R2 WiFi board
+    - NeoPixel Strip WS2812B
+    - RobotDyn capacitive touch sensor
+    - some wires
   Version: 1.0
 */
 /* Libraries */
